@@ -1,0 +1,9 @@
+{
+  "title": "Archon of Hope",
+  "version": 1,
+  "screens": [
+    { "id": "welcome",  "title": "Welcome",  "subtitle": "Start here",          "page": "pages/welcome.md" },
+    { "id": "glossary", "title": "Glossary", "subtitle": "Every term, linked",  "page": "pages/glossary.md" },
+    { "id": "roadmap",  "title": "Roadmap",  "subtitle": "What we're building", "page": "pages/roadmap.md" }
+  ]
+}
