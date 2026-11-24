@@ -1,11 +1,11 @@
 ---
 title: Book of Hope
-version: 0.0001.1
+version: 0.0001.2
 day: 1
 ---
 
 # Book of Hope
-v0.0001.1 · Day 1 of 1,000
+v0.0001.2 · Day 1 of 1,000
 
 **Understand. Not believe.**
 
@@ -22,6 +22,14 @@ It starts with a creation story: the black hole was there way before us and will
 5. [**Sacrilege**](sacrilege/README.md) — Piety in the light, blasphemy in the dark, in every faith's name.
 6. [**Plaint**](plaint/README.md) — Victimhood as sword and shield.
 7. [**Coda**](coda/README.md) — Teams ride in the back seat, or mankind dies.
+
+Also in Genesis: [**Hope**](genesis/hope.md) — "Nobody knows" is OK. So is "I saw something."
+
+## Containers
+
+- [**North**](north/README.md) — Light · Queen · Vanity · Apathy
+- [**South**](south/README.md) — Power · King · Authority · Rage
+- [**The Great Distraction**](the-great-distraction/README.md) — Anything that makes us look away.
 
 ## Releases
 

@@ -26,4 +26,4 @@ I saw a thin sliver of every rainbow and laughter and heartfelt joy He had ever 
 Solutions of the day ain't it. I know I'm not the only one.
 
 ---
-[Contents](../README.md) · Next: [Schism](../schism/sides.md)
+[Contents](../README.md) · Next: [Hope](hope.md)

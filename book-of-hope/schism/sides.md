@@ -38,4 +38,4 @@ I don't question any of those codices. I ask their champions: how do any of us s
 Mankind is literally on the brink. And yet nearly every response, human and AI alike, insists you must not dare ask anyone to place mankind first.
 
 ---
-[Contents](../README.md) · Prev: [Genesis](../genesis/the-black-hole.md) · Next: [Vainglory](../vainglory/README.md)
+[Contents](../README.md) · Prev: [Hope](../genesis/hope.md) · Next: [Vainglory](../vainglory/README.md)
